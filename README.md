@@ -1,13 +1,17 @@
-<h1 align="center">Hi there 👋 I'm 王炯</h1>
+<h1 align="center">Hi there 👋 I'm 王炯 (Wang Jiong)</h1>
 
 <p align="center">
-  <b>云计算工程师（云网络 / 云运维方向）</b> · 网络工程本科在读
+  <b>Cloud Computing Engineer</b> · Network Engineering Undergraduate
 </p>
 
 <p align="center">
   <a href="mailto:2281516753@qq.com"><img src="https://img.shields.io/badge/Email-2281516753@qq.com-168DE2?logo=qq"></a>
   <a href="https://github.com/2281516753"><img src="https://img.shields.io/badge/GitHub-2281516753-181717?logo=github"></a>
-  <img src="https://img.shields.io/badge/Location-河南-orange">
+  <img src="https://img.shields.io/badge/Location-Henan%2C_China-orange">
+</p>
+
+<p align="center">
+  <a href="README_CN.md">📖 中文版 / 切换到中文</a>
 </p>
 
 ---
@@ -29,25 +33,25 @@
 
 ---
 
-### 📌 关于我
+### 📌 About Me
 
-- 🎓 安阳学院 · 网络工程专业 · 2027 届
-- 📝 软考网络工程师（中级）| H3CIE-RS 备考中
-- 🏆 华为 ICT 大赛 / 新华三杯 参赛经历
-- ☁️ 热爱云计算与网络自动化，相信"能自动化的就别手动"
-- 🤖 AI 工具重度用户——用 AI 辅助开发了 6 个开源项目
-- 😄 性格开朗幽默，日常跳脱，但 code review 时一秒严肃
+- 🎓 Anyang University · Network Engineering · Class of 2027
+- 📝 Network Engineer Certification (Intermediate) | H3CIE-RS in progress
+- 🏆 Huawei ICT Competition / H3C Cup participant
+- ☁️ Passionate about cloud computing & network automation
+- 🤖 Heavy AI tools user — built 6 open-source projects with AI assistance
+- 😄 Outgoing & humorous personality, but all business when it comes to code
 
 ---
 
-### 🚀 项目精选
+### 🚀 Featured Projects
 
-| 项目 | 简介 | 技术栈 |
-|------|------|--------|
-| [Cloud Lab](https://github.com/2281516753/cloud-lab) | 云基础设施实验平台，一键部署 Nginx/Prometheus/Grafana/Redis/MySQL | Docker, Prometheus, Grafana |
-| [Net-Auto](https://github.com/2281516753/net-auto) | 网络自动化工具集：配置备份、Ping 监控、子网计算、端口扫描 | Python, paramiko |
-| [NetScope](https://github.com/2281516753/net-diag-html) | 纯浏览器端网络诊断工具，在线可访问 | HTML/JS, DoH API |
-| [WSL Dev Setup](https://github.com/2281516753/wsl-dev-setup) | WSL2 开发环境一键部署脚本 | Shell, systemd, Docker |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Cloud Lab](https://github.com/2281516753/cloud-lab) | Cloud infrastructure lab with one-click deployment | Docker, Prometheus, Grafana |
+| [Net-Auto](https://github.com/2281516753/net-auto) | Network automation: backup, ping, subnet, scanner | Python, paramiko |
+| [NetScope](https://github.com/2281516753/net-diag-html) | Browser-based network diagnostics, live online | HTML/JS, DoH API |
+| [WSL Dev Setup](https://github.com/2281516753/wsl-dev-setup) | One-click WSL2 dev environment deployment | Shell, systemd, Docker |
 
 ---
 
@@ -61,5 +65,5 @@
 ---
 
 <p align="center">
-  <i>⚡ 在云计算和网络自动化的路上持续折腾中...</i>
+  <i>⚡ Continuously tinkering in the world of cloud computing & network automation...</i>
 </p>
